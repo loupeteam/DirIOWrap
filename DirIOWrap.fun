@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: DirIOWrap
+(*
  * File: DirIOWrap.fun
- * Author: Josh
- * Created: April 24, 2015
- ********************************************************************
- * Functions and function blocks of library DirIOWrap
- ********************************************************************)
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of DirIOWrap, licensed under the MIT License.
+ *)
 
 FUNCTION DirIO : UINT (*Wrapper for common directory functions*) (*$GROUP=User*)
 	VAR_IN_OUT

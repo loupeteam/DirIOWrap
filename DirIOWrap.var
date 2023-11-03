@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: DirIOWrap
+(*
  * File: DirIOWrap.var
- * Author: Josh
- * Created: April 24, 2015
- ********************************************************************
- * Constants of library DirIOWrap
- ********************************************************************)
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of DirIOWrap, licensed under the MIT License.
+ *)
 VAR CONSTANT
 	DIOWRAP_STRLEN_ERROR : USINT := 80;
 	DIOWRAP_STRLEN_NAME : UINT := 260;

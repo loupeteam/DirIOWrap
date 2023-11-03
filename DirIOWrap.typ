@@ -1,13 +1,10 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: DirIOWrap
+(*
  * File: DirIOWrap.typ
- * Author: Josh
- * Created: April 24, 2015
- ********************************************************************
- * Data types of library DirIOWrap
- ********************************************************************)
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of DirIOWrap, licensed under the MIT License.
+ *)
 
 TYPE
 	DIOWrap_Int_FUB_typ : 	STRUCT 

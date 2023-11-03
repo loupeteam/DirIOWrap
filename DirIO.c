@@ -1,13 +1,10 @@
-/********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Library: DirIOWrap
+/*
  * File: DirIO.c
- * Author: Josh
- * Created: April 24, 2015
- ********************************************************************
- * Implementation of library DirIOWrap
- ********************************************************************/
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of DirIOWrap, licensed under the MIT License.
+ */
 
 #include <bur/plctypes.h>
 #ifdef __cplusplus
