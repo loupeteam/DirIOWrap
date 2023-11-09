@@ -1,0 +1,13 @@
+(*
+ * File: DirIOWrap.var
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of DirIOWrap, licensed under the MIT License.
+ *)
+VAR CONSTANT
+	DIOWRAP_STRLEN_ERROR : USINT := 80;
+	DIOWRAP_STRLEN_NAME : UINT := 260;
+	DIOWRAP_STAT_OK : UINT := 0;
+	DIOWRAP_STAT_DISABLED : UINT := 65534;
+END_VAR
